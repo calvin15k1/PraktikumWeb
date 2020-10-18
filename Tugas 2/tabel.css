@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font-family: "Raleway Thin", sans-serif;
+	color: white;
+	background: #1A1A1A;
+	padding: 50px 150px 10px;
+}
+h2 {
+	text-align: center;
+}
+caption {
+	font: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 25px;
+}
+table, th, td {
+	border: 0px solid #FFFFFF;
+	text-align: center;
+	padding: 15px;
+ 	text-align: left;
+}
+th {
+  background-color: #134580;
+}
+tr:hover {
+	background-color :#134580;
+}
